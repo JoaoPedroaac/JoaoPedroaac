@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Nice to meet you! I'm João, a young programming enthusiast.<br>I really like back-end and precisely Java.<br>---<br>Here I will highlight some of my personal projects and studies 📕📗📘📙</p>
+<p align="left">Nice to meet you! I'm João, a young programming enthusiast.<br>I really like back-end and precisely Java. <br> Here I will highlight some of my personal projects and studies 📕📗📘📙</p>
 
 ###
 ![ca262e0354eea311c41134c3e4bc3bc2](https://github.com/JoaoPedroaac/JoaoPedroaac/assets/142275443/de5d5957-9b8b-4fa1-81fc-85fb96d01c22)
@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" link="https://www.youtube.com/watch?v=8Sf6OAS4y1E&t=231s" />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
