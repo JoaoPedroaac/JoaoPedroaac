@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">Nice to meet you! I'm João, a young programming enthusiast.<br>I really like back-end and precisely Java. <br> Here I will highlight some of my personal projects and studies 📕📗📘📙</p>
+<p align="left">Nice to meet you! I'm João, a young programming enthusiast.<br>I really like back-end and precisely Node.js and Express.js & React.js. <br> Here I will highlight some of my personal projects and studies 📕📗📘📙</p>
 
 ###
 ![ca262e0354eea311c41134c3e4bc3bc2](https://github.com/JoaoPedroaac/JoaoPedroaac/assets/142275443/de5d5957-9b8b-4fa1-81fc-85fb96d01c22)
